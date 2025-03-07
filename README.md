@@ -20,7 +20,8 @@
     In order to run this application, first you must run that schema .sql file in PostgreSQL to create the database. Next, you must seed the database with either the data provided in seed.sql or your own data listing departments, roles, and employees. After that, all you need to do is run the application using node app.js in the terminal! Hope this is helpful!
 
 ## Usage
-    First, you must run the schema.sql file using PostgreSQL. Next, add your data or the mock data provided in the seed.sql file. Finally, run "node app.js" in your command terminal to start the application. 
+    First, you must run the schema.sql file using PostgreSQL. Next, add your data or the mock data provided in the seed.sql file. Finally, run "node app.js" in your command terminal to start the application.
+    **Video Demo**: https://youtu.be/HYPtaBV5moU
 
 ## Contributing
     Jerald Whitley, Jr
